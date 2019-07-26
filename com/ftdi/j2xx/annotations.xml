@@ -1,0 +1,5 @@
+<root>
+    <item name='com.ftdi.j2xx.D2xxManager'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
